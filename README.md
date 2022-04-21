@@ -8,7 +8,7 @@ The number 0.43438643583761494 that repeats while(true).
 
 
 
-##note
+#note
 I don't know when I'll release the code to these. 
 Probably when I will prove that the computational possibility exists in every programming language.
 And I'd go as far to say that it exists in math itself.
